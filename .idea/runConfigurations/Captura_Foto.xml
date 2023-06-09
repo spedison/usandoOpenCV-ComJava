@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Captura-Foto" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="br.com.spedison.Main" />
+    <module name="usandoOpenCV" />
+    <target name="spedison@opencv-java2:22" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/target/" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
